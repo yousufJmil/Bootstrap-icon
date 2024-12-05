@@ -1,0 +1,22 @@
+@font-face{
+	 src: url(../fonts/opensans-regular.ttf);
+	 font-family: opensans-regular ;
+}
+@font-face{
+	 src: url(../fonts/opensans-bold.ttf);
+	 font-family: opensans-bold ;
+}
+@font-face{
+	 src: url(../fonts/opensans-regular.ttf);
+	 font-family: opensans-regular ;
+}
+
+
+
+/*font-family: "Ubuntu", sans-serif;*/
+
+.menu {
+	 		
+.menu i{
+		color: black;
+}
